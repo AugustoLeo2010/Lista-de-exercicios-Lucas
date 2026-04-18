@@ -10,7 +10,7 @@ if (idade < 16) {
     IO.println("Voto opcional");
 
 }else if (idade >= 18 && idade <= 69) {
-    IO.println("Voto opcional");
+    IO.println("Voto obrigatorio");
 
 }else if (idade >= 70) {
     IO.println("Voto opcional");
